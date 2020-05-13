@@ -2,3 +2,4 @@
 /cache/
 /var/cache/dev/
 /var/cache/prod/
+/composer.lock
